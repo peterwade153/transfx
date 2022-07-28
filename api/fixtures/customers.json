@@ -1,0 +1,35 @@
+[
+    {
+        "model": "api.customer",
+        "pk": 1,
+        "fields": {
+            "name": "Arisha Barron",
+            "created_date": "2022-07-22T13:20:30+03:00"
+        }
+    },
+    {
+        "model": "api.customer",
+        "pk": 2,
+        "fields": {
+            "name": "Branden Gibson",
+            "created_date": "2022-07-22T13:20:30+03:00"
+        }
+    },
+    {
+        "model": "api.customer",
+        "pk": 3,
+        "fields": {
+            "name": "Rhonda Church",
+            "created_date": "2022-07-22T13:20:30+03:00"
+        }
+      
+    },
+    {
+        "model": "api.customer",
+        "pk": 4,
+        "fields":{
+            "name": "Georgina Hazel",
+            "created_date": "2022-07-22T13:20:30+03:00"
+        }
+    }
+  ]
