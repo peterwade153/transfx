@@ -9,6 +9,7 @@ def main():
     if (os.environ.get('ENV_VAR') == 'prod'):
         os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app.settings.prod')
     else:
+        print('using local settings')
         os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app.settings.local')
 
     try:
