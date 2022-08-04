@@ -2,7 +2,7 @@
 
 REST API to track bank account transactions
 
-Built with Python 3.8 and SQLite Database
+Built with Python 3.8 and PostgreSQL(on Heroku)/SQLite Database
 
 ### Installation
 
