@@ -10,7 +10,7 @@ Built with Python 3.8 and SQLite Database
 
 2. Move into the project folder
    ```
-   $ cd banking-api-jannal
+   $ cd transfx
    ```
 
 3. Install dependencies 
